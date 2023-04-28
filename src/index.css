@@ -17,5 +17,16 @@ code {
 
 #root {
   width: 100%;
-  height: 100%;
+  height: 96%;
+}
+
+#footer {
+  text-align: center;
+  width: 100%;
+  height: 2%;
+}
+
+#footer a {
+  /* text-decoration: none; */
+  color: black;
 }
